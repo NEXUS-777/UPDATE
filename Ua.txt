@@ -1,1 +1,1 @@
-M1=Mozilla/5.0 (iPad; CPU OS 16_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/20F75 [FBAN/FBIOS;FBDV/iPad13,8;FBMD/iPad;FBSN/iPadOS;FBSV/16.5.1;FBSS/2;FBID/tablet;FBLC/nl_NL;FBOP/5]=UA
+M1=Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_3 like Mac OS X) AppleWebKit/603.3.8 (KHTML, like Gecko) Mobile/14G60 [FBAN/FBIOS;FBDV/iPhone8,4;FBMD/iPhone;FBSN/iOS;FBSV/10.3.3;FBSS/2;FBID/phone;FBLC/hu_HU;FBOP/5;FBCR/Telekom HU]=UA
